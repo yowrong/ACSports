@@ -93,5 +93,5 @@ for row in scores_data[1:]:
 
     print(row)
 
-df = pd.DataFrame(scores_data)
-df.to_csv('nfl_2020_data_summary.csv', index=False, header=False)
+# df = pd.DataFrame(scores_data)
+# df.to_csv('nfl_2020_data_summary.csv', index=False, header=False)
